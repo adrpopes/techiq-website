@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.techiq.ro/sitemap.xml
